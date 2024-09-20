@@ -1,5 +1,5 @@
 ---
-description: Zie ISO 27001
+description: See ISO 27001
 ---
 
 # Management Review

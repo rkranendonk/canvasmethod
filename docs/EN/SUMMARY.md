@@ -7,7 +7,7 @@
 * [Alignment meeting](alignmentmeeting.md)
 * [Management review](management-review.md)
 
-## De Workshops
+## The Workshops
 
 * [Preparing the workshops](the-workshops/preparing-the-workshops.md)
 * [Workshop 1: Identifying risks](the-workshops/workshop-1-identifying-risks.md)

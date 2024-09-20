@@ -1,76 +1,76 @@
-# Afstemmingsoverleg
+# Alignment Meeting
 
-In het Afstemmingsoverleg komen de Team Captains samen de Canvas Board, om risico’s en maatregelen te bespreken. Het Afstemmingsoverleg wordt georganiseerd nadat alle teams de Workshop Maatregelen hebben afgerond.
+In the Alignment Meeting, the Team Captains meet with the Canvas Board to discuss risks and measures. The Alignment Meeting is organized after all teams have completed the Measures Workshop.
 
-## Doel
+## Objective
 
-Het maken van afdelingsoverstijgende afspraken over risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit).
+To establish cross-departmental agreements on risk treatment, priorities, measures, actions and action owners, measurement methods, and targets (intended effectiveness).
 
-Deze afspraken worden vastgelegd in een Risicobehandelplan, dat afgetekend wordt door het Canvas Board.
+These agreements are documented in a Risk Treatment Plan, which is signed off by the Canvas Board.
 
-Dit Risicobehandelplan vormt de grondslag voor een implementatieplan.
+This Risk Treatment Plan serves as the basis for an implementation plan.
 
-## Samenstelling
+## Composition
 
-Bij het Afstemmingsoverleg zitten de volgende partijen aan:
+The following parties participate in the Alignment Meeting:
 
-* de Team Captains
-* het [#canvas-board](rollen.md#canvas-board "mention")
-* een Facilitator
+* the Team Captains
+* the [#canvas-board](roles.md#canvas-board "mention")
+* a Facilitator
 
-De Team Captains presenteren de risico's namens hun teams, het Canvas Board neemt besluiten, de Facilitator leidt het overleg.
+The Team Captains present the risks on behalf of their teams, the Canvas Board makes decisions, and the Facilitator leads the meeting.
 
-## Insteek
+## Approach
 
-De teams hebben in de workshops risico’s geïdentificeerd en ondergebracht in één van de vier categorieën:
+The teams have identified risks in the workshops and categorized them into one of four categories:
 
-* Beheersen
-* Overdragen
-* Accepteren
-* Vermijden
+* Control
+* Transfer
+* Accept
+* Avoid
 
-Er zijn ook risico’s waaraan ze een lagere prioriteit hebben toegekend en waarvoor nog geen behandelstrategie is gekozen. Deze risico’s willen ze doorschuiven naar een volgende cyclus.
+There are also risks they have assigned a lower priority to and for which no treatment strategy has yet been chosen. These risks will be deferred to the next cycle.
 
-De Team Captains vragen akkoord van het Canvas Board op de voorgestelde risicobehandeling.
+The Team Captains seek the Canvas Board’s approval of the proposed risk treatment.
 
-Tevens wordt bekeken hoe een risico relevant is voor andere teams en of men samen op kan trekken in bepaalde maatregelen (of dat een ander team een betere oplossing heeft).
+Additionally, it is discussed how a risk may be relevant to other teams and whether they can collaborate on certain measures (or whether another team has a better solution).
 
-## Vraagstelling richting het Risk Board
+## Questions for the Risk Board
 
-De vraagstelling van de Team Captains richting het Canvas Board is voor de verschillende categorieën als volgt.
+The questions from the Team Captains to the Canvas Board vary based on the different categories.
 
-**Te beheersen risico’s:** deze risico’s kan en wil het team zelf aanpakken. Het team wil hiervoor een toezegging dat de benodigde tijd en middelen besteed mogen worden.
+**Risks to be controlled:** these are risks the team can and wants to address on its own. The team seeks a commitment that the necessary time and resources may be allocated.
 
-**Over te dragen risico’s:** het team wil dat deze risico’s aangepakt worden, maar kan dat niet zelf. Men vraagt een toezegging dat een ander team/afdeling maatregelen zal treffen (met een concreet tijdspad).
+**Risks to be transferred:** the team wants these risks to be addressed but cannot do so itself. They seek a commitment that another team/department will take measures (with a concrete timeline).
 
-Het Risk Board kan in beide gevallen besluiten dat een risico geaccepteerd wordt. Dit kan frustrerend zijn voor het betreffende team, maar geeft wel duidelijkheid over verantwoordelijkheden m.b.t. het risico en de eventuele gevolgen ervan.
+In both cases, the Risk Board can decide that a risk is to be accepted. This may be frustrating for the team in question but clarifies the responsibilities regarding the risk and any consequences.
 
-**Te accepteren risico’s:** het team is van mening dat een risico acceptabel is (of dat het simpelweg praktisch niet mogelijk of haalbaar is maatregelen te treffen). Men vraagt van het Canvas Board de bevestiging dat het risico acceptabel is.
+**Risks to be accepted:** the team believes a risk is acceptable (or that it is simply not feasible or practical to take measures). They seek confirmation from the Canvas Board that the risk is acceptable.
 
-**Te vermijden risico’s:** het team wil het risico vermijden door bijv. een bepaalde activiteit te staken of een stuk techniek niet meer te gebruiken. Het team vraagt hiervoor akkoord.
+**Risks to be avoided:** the team wants to avoid the risk by, for example, discontinuing a certain activity or no longer using a piece of technology. The team seeks approval for this.
 
-**Risico’s om later op te pakken:** het team is van mening dat een risico lagere prioriteit heeft, en wil de behandeling daarvan doorschuiven naar een volgende cyclus. Ook hier vraagt met akkoord van het Canvas Board.
+**Risks to be deferred:** the team believes a risk is of lower priority and wants to defer its treatment to the next cycle. They also seek approval from the Canvas Board for this.
 
-## Proces
+## Process
 
-Team Captain A presenteert zijn grootste risico met bijbehorende analyse. De anderen geven aan of ze hetzelfde risico hebben genoteerd: ze bespreken en komen overeen over een gemeenschappelijke naamgeving en analyse. Daarna presenteert Team Captain B haar grootste risico, enzovoorts.
+Team Captain A presents their most significant risk along with the corresponding analysis. Others indicate whether they have noted the same risk: they discuss and agree on a common naming and analysis. Then Team Captain B presents their most significant risk, and so on.
 
-Het is mogelijk dat twee teams hetzelfde risico identificeren, maar met een significant verschil in risicoscore (waarschijnlijkheid of impact) of voorgestelde behandeling. In dat geval bespreken ze de overwegingen die tot de scores hebben geleid. Als waarschijnlijkheid of impact inderdaad verschillend zijn, overweeg dan verschillende behandelingsstrategieën voor elk team.
+It is possible that two teams identify the same risk but with a significant difference in risk score (likelihood or impact) or proposed treatment. In such cases, they discuss the considerations that led to the scores. If the likelihood or impact truly differs, consider different treatment strategies for each team.
 
-Als er veel risico's besproken moeten worden, moet dit op een bepaalde manier beperkt worden, bijvoorbeeld alleen hoog scorende risico's, beperkte duur van de sessie, stoppen wanneer je het maximale aantal implementeerbare risico's voor deze Canvas-cyclus hebt bereikt.
+If there are many risks to be discussed, a way to limit this must be found, such as only discussing high-scoring risks, limiting the session’s duration, or stopping when the maximum number of implementable risks for this Canvas cycle has been reached.
 
-## Terugkoppeling naar de Teams
+## Feedback to the Teams
 
-Het afstemmingsoverleg zorgt voor verrijking en correcties. Van belang is dat de Teams hun eigen risico’s moeten kunnen herkennen, weten dat ze gehoord en gehonoreerd zijn. Tegelijkertijd kan het zijn, dat een deel van ‘hun’ risico’s geaccepteerd wordt, terwijl dat niet hun voorkeur heeft, of er juist maatregelen geïmplementeerd gaan worden voor risico’s die zij acceptabel achtten. Of dat er andere of meer maatregelen getroffen gaan worden.
+The Alignment Meeting leads to enrichment and corrections. It is important that the Teams can recognize their own risks and know that they have been heard and acknowledged. At the same time, some of "their" risks may be accepted, which may not be their preference, or measures may be implemented for risks they deemed acceptable. Alternatively, other or more extensive measures may be taken.
 
-## Verslaglegging
+## Reporting
 
-Het resultaat van het Afstemmingsoverleg is het, door het Canvas Board afgetekende Risicobehandelplan. Dit bevat afdelingsoverstijgende afspraken over risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit).
+The outcome of the Alignment Meeting is the Risk Treatment Plan, signed off by the Canvas Board. This plan contains cross-departmental agreements on risk treatment, priorities, measures, actions and action owners, measurement methods, and targets (intended effectiveness).
 
-Het Risicobehandelplan vormt de grondslag voor een implementatieplan.
+The Risk Treatment Plan forms the basis for an implementation plan.
 
-## Implementatie van maatregelen
+## Implementation of Measures
 
-Projectplanning en -bewaking vallen buiten de scope van de Canvas Methode en kunnen ingericht worden in de systemen die de organisatie daarvoor heeft.
+Project planning and monitoring are outside the scope of the Canvas Method and can be organized within the systems the organization has for this purpose.
 
-Het is aan te raden om voor iedere maatregel een eigenaar vast te stellen (‘Control Owner’), die verantwoordelijk is voor de implementatie en documentatie van de maatregel, inclusief de effectiviteitsmeting.
+It is recommended to assign an owner ("Control Owner") for each measure, who will be responsible for the implementation and documentation of the measure, including the effectiveness measurement.

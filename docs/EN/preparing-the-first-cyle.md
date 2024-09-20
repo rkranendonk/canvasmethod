@@ -1,24 +1,24 @@
-# Voorbereiding eerste cyclus
+# Preparation for the First Cycle
 
-Met de directie worden bepaald:
+The following are determined with management:
 
-* De doelen van het ISMS
-* De kwalificatie van de risico-impact (hoog/midden/laag) in termen van financiën, reputatieschade en/of continuïteit
-* De kwalificatie van de risico-probabiliteit (hoog/midden/laag) in termen van tijd/frequentie
-* Het risico acceptatie niveau
-* De Teams (i.e. deelnemers aan de workshops) en Team Captains
-* De lengte van een cyclus/iteratie (typisch tussen 3 maanden en een jaar)
-* opzetten incidentenregistratie (nodig om in de 3e workshop incidenten te kunnen bespreken)
+- The goals of the ISMS
+- The qualification of risk impact (high/medium/low) in terms of finances, reputational damage, and/or continuity
+- The qualification of risk probability (high/medium/low) in terms of time/frequency
+- The risk acceptance level
+- The Teams (i.e., participants in the workshops) and Team Captains
+- The length of a cycle/iteration (typically between 3 months and a year)
+- Setting up incident registration (necessary for discussing incidents in the 3rd workshop)
 
-De Workshop Facilitator verzamelt informatie over de context van de organisatie en de verschillende teams, zodat hij/zij voldoende kennis heeft om een goed resultaat te halen uit de workshops.
+The Workshop Facilitator gathers information about the organization’s context and the different teams, ensuring they have sufficient knowledge to achieve good results from the workshops.
 
-Relevante onderwerpen kunnen zijn:
+Relevant topics may include:
 
-* geldende wet- en regelgeving
-* ingevoerde kwaliteitsnormen en compliance frameworks
-* bedrijfsstructuur
-* primaire processen
-* management processen
-* gebruikte software en dienstverleners
-* lopende en geplande veranderingen en projecten
-* bestaande beveiligings- en privacy maatregelen
+- Applicable laws and regulations
+- Implemented quality standards and compliance frameworks
+- Organizational structure
+- Primary processes
+- Management processes
+- Software and service providers in use
+- Ongoing and planned changes and projects
+- Existing security and privacy measures
