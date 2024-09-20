@@ -1,80 +1,78 @@
-# Workshop 1: Risico’s
+# Workshop 1: Risks
 
-De Workshop Facilitator geeft een korte introductie over het doel van het project, en de discipline informatiebeveiliging. Hierbij komen aan de orde:
+The Workshop Facilitator gives a brief introduction about the project’s purpose and the discipline of information security. The following points are covered:
 
-* informatieveiligheid is constant in beweging
-* informatiebeveiliging als proces (PDCA)
-* Beschikbaarheid, Vertrouwelijkheid en Integriteit als peilers
-* Risico = Probabiliteit x Impact
-* Het iteratieve karakter van de Canvas Methode: het hoeft niet compleet of correct te zijn, we verbreden, verdiepen en corrigeren in de volgende cyclus
+* Information security is constantly evolving
+* Information security as a process (PDCA cycle)
+* Availability, Confidentiality, and Integrity as pillars
+* Risk = Probability x Impact
+* The iterative nature of the Canvas Method: it doesn’t have to be complete or correct right away; we will expand, deepen, and correct in the next cycle
 
-Hieronder is een voorbeeld opgenomen van een presentatie, die kan helpen om de bovenstaande onderwerpen over te brengen op de deelnemers.
+Below is an example of a presentation that can help convey the topics above to the participants.
 
-{% file src="../.gitbook/assets/DATE Workshop Risks - Slide Deck  CLIENT.pdf" %}
+{% file src="../.gitbook/assets/DATE Workshop Risks - Slide Deck CLIENT.pdf" %}
 
-Na de introductie start hij/zij het interactieve deel van de workshop.
+After the introduction, the facilitator initiates the interactive part of the workshop.
 
-De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
+The following topics are addressed using the Canvas.
 
 <figure><img src="../.gitbook/assets/Risico Canvas.png" alt=""><figcaption></figcaption></figure>
 
 ## Context
 
-Deelnemers worden uitgenodigd alle zaken in hun organisatie en de buitenwereld de benoemen, die invloed hebben op hun werk (en meer specifiek het werken met informatie). Een [DESTEP](https://en.wikipedia.org/wiki/PEST\_analysis)-raamwerk kan hierbij behulpzaam zijn. De genoemde zaken worden op Post-Its genoteerd en op het Canvas geplakt. De deelnemers wordt gevraagd een korte toelichting te geven hoe de verschillende onderwerpen hun werkzaamheden beïnvloeden.
+Participants are invited to name all the factors inside and outside the organization that influence their work (and more specifically, their work with information). A [DESTEP](https://en.wikipedia.org/wiki/PEST_analysis) framework can be helpful here. The mentioned factors are written on Post-Its and placed on the Canvas. Participants are asked to briefly explain how the various factors affect their work.
 
-## Proces
+## Process
 
-De deelnemers benoemen de verschillende processen op hun afdeling / in hun team. De processen worden op Post-Its genoteerd en op het Canvas geplakt. Er is ruimte voor het benoemen van sub-processen of processtappen, die volgens deelnemers in dit kader specifieke aandacht verdienen.
+Participants identify the different processes in their department/team. The processes are written on Post-Its and placed on the Canvas. There is space for naming sub-processes or process steps that participants feel deserve special attention in this context.
 
-Daarbij vraagt de Workshop Facilitator specifiek naar:
+The Workshop Facilitator specifically asks about:
 
-* waar informatie vandaan komt, en via welk medium
-* hoe ze die informatie gebruiken in hun proces / met welk doel
-* aan wie ze informatie leveren, en via welk medium
-* welke tooling ze daarbij gebruiken (software, papier, etc.)
+* Where information comes from and through which medium
+* How they use the information in their process / for what purpose
+* To whom they deliver information, and through which medium
+* What tools they use (software, paper, etc.)
 
-Indien gewenst kan het proces geschetst worden als diagram.
+If desired, the process can be visualized as a diagram.
 
-**Opmerking:** het doel van deze exercitie is _niet_ een correcte of volledige specificatie van de genoemde zaken. Het in kaart brengen van de processen is slechts een hulpmiddel om de deelnemers alert te maken op mogelijke risico’s.
+**Note:** The goal of this exercise is *not* to create a complete or correct specification of the mentioned items. Mapping out the processes is merely a tool to make participants aware of potential risks.
 
-## Risico's
+## Risks
 
-De Workshop Facilitator vraagt de deelnemers om de voor hun team of afdeling relevante risico’s rond de verwerking van informatie te noteren op Post-Its. Hij/zij herinnert ze hierbij eventueel aan de aspecten Beschikbaarheid, Vertrouwelijkheid en Integriteit van de informatie.
+The Workshop Facilitator asks participants to note down risks related to information processing relevant to their team or department on Post-Its. He/she may remind them of the aspects of Availability, Confidentiality, and Integrity of information.
 
-Vraag de deelnemers om voor ieder risico's een nieuwe Post-It te gebruiken (dus één risico per Post-It). Laat ze op de Post-It ook hun initialen noteren, dat is handig voor de verslaglegging en als je achteraf een toelichting wilt vragen.
+Ask participants to use a new Post-It for each risk (one risk per Post-It). Have them also write their initials on the Post-It, as it is useful for reporting and for asking for clarification later.
 
-Geef de deelnemers ruimte om hun zorgen op hun eigen manier te benoemen: wat ze opschrijven valt vaak niet binnen de formele definitie van een risico (een mogelijke gebeurtenis met negatieve gevolgen). In de praktijk zul je risico’s (‘laptop gestolen’), kwetsbaarheden (‘geen encryptie op laptop’), en gevolgen (‘datalek’) door elkaar heen terugkrijgen.
+Give participants space to express their concerns in their own way: what they write often doesn’t fit neatly into the formal definition of a risk (a possible event with negative consequences). In practice, you’ll receive a mix of risks (“stolen laptop”), vulnerabilities (“no encryption on laptop”), and consequences (“data breach”).
 
-De Workshop Facilitator bespreekt dan de genoteerde risico’s met de deelnemers: om welke (negatieve) gebeurtenis gaat het, door welke kwetsbaarheid wordt het risico veroorzaakt, en wat zijn de mogelijke gevolgen als het daadwerkelijk gebeurt.
+The Workshop Facilitator then discusses the noted risks with the participants: what is the (negative) event, what vulnerability causes the risk, and what are the possible consequences if it happens.
 
-Na bespreking plakt de Workshop Facilitator iedere Post-It op het Canvas.
+After the discussion, the Workshop Facilitator places each Post-It on the Canvas.
 
-Vaak zal eenzelfde risico door meerdere deelnemers benoemd worden, de Workshop Facilitator voegt ze dan samen door bijv. de Post-Its op elkaar te plakken.
+Often, the same risk will be mentioned by multiple participants; the Workshop Facilitator consolidates these by, for example, stacking the Post-Its.
 
-Vervolgens worden de Post-Its in overleg gerangschikt op impact: risico’s met de hoogste impact komen bovenaan in de kolom, risico’s met de laagste impact onderaan.
+Next, the Post-Its are arranged by impact: risks with the highest impact are placed at the top of the column, and those with the lowest impact at the bottom.
 
-De Workshop Facilitator licht toe, dat het doel hiervan alleen is het bepalen van prioriteiten. De Workshop Facilitator trekt nu twee lijnen, waardoor er drie clusters ontstaan. Het eerste cluster van risico’s wordt in de huidige iteratie aangepakt, het tweede cluster mogelijk ook (voor een deel), en het laatste cluster is sowieso voor een volgende cyclus.
+The Workshop Facilitator explains that the purpose of this is simply to determine priorities. The facilitator then draws two lines, creating three clusters. The first cluster of risks will be addressed in the current iteration, the second cluster possibly as well (partially), and the last cluster will definitely be addressed in the next cycle.
 
-**Opmerking:** Er zullen risico’s genoemd worden die wellicht niet in scope zijn van het project, maar daar wordt niet hard op gecorrigeerd. Het kan benoemd worden op het moment dat de behandeling van de risico’s wordt vastgesteld.
+**Note:** Some risks mentioned may be out of scope for the project, but this isn’t corrected too strictly. It can be pointed out when determining how to handle the risks.
 
-## Risicobehandeling
+## Risk Treatment
 
-De Workshop Facilitator pakt de risico’s met de hoogste prioriteiten, en bespreekt met de deelnemer of een risico door het team zelf aangepakt moet worden (‘mitigate’), of het risico door een ander team of partij aangepakt moet worden (‘transfer’), of het risico vermeden kan worden (‘avoid’), of het risico acceptabel is (‘accept’). De betreffende Post-It verhuist naar een van de vier kwadranten. De gekozen behandeling wordt genoteerd.
+The Workshop Facilitator takes the highest-priority risks and discusses with the participants whether a risk should be addressed by the team itself ("mitigate"), whether another team or party should handle it ("transfer"), whether the risk can be avoided ("avoid"), or if the risk is acceptable ("accept"). The respective Post-It is moved to one of the four quadrants. The chosen treatment is noted.
 
-## Verslaglegging
+## Reporting
 
-Na afloop van de workshop zorgt de Workshop Facilitator voor een verslaglegging. Hieronder is een voorbeeld opgenomen van een manier waarop dat kan gebeuren. De Workshop Facilitator deelt de verslaglegging met de deelnemers aan de workshop.
+After the workshop, the Workshop Facilitator ensures reporting is completed. Below is an example of how this can be done. The Workshop Facilitator shares the report with the workshop participants.
 
+## Deep Dive
 
+For a deeper analysis, **Risk Cards** can be used. These cards include:
 
-## Verdieping
-
-Als verdieping kunnen de **Risk Cards** gebruikt worden. Hierop worden genoteerd:
-
-* de beschrijving van het risico
-* de omstandigheden waaronder het risico zich voordoet
-* de mogelijke gevolgen voor het team en/of de organisatie
-* inschatting van probabiliteit en impact (financieel, reputatie, continuïteit)
-* risicoscore (PxI)
-* risicobehandeling (zie hierboven)
-* transfer naar … (wordt vastgesteld in het [afstemmingsoverleg.md](../afstemmingsoverleg.md "mention"))
+* A description of the risk
+* The circumstances under which the risk occurs
+* The potential consequences for the team and/or the organization
+* An estimate of probability and impact (financial, reputation, continuity)
+* Risk score (PxI)
+* Risk treatment (see above)
+* Transfer to … (to be determined in the [Alignment Meeting](../afstemmingsoverleg.md "mention"))

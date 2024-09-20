@@ -1,59 +1,59 @@
-# Workshop 2: Maatregelen
+# Workshop 2: Measures
 
-Deze workshop is typisch een week na de eerste workshop (Risico identificatie).
+This workshop typically takes place one week after the first workshop (Risk Identification).
 
-De Workshop Facilitator start de workshop met een korte presentatie, met daarin een terugblik op de vorige workshop (Risico's) en de doelen van de huidige workshop.
+The Workshop Facilitator starts the workshop with a brief presentation, which includes a review of the previous workshop (Risks) and the objectives of the current workshop.
 
-Hieronder is een voorbeeld opgenomen van een presentatie, die kan helpen om de bovenstaande onderwerpen over te brengen op de deelnemers.
+Below is an example of a presentation that can help convey the above topics to the participants.
 
-{% file src="../.gitbook/assets/DATE Workshop Controls - Slide Deck  CLIENT.pdf" %}
+{% file src="../.gitbook/assets/DATE Workshop Controls - Slide Deck CLIENT.pdf" %}
 
-De Workshop Facilitator plakt de risico’s, die in de workshop Risico Identificatie aangemerkt zijn als: door het team zelf te behandelen (‘mitigate’), in de betreffende kolom, op volgorde van prioriteit (zoals vastgesteld in de workshop Risico's).
+The Workshop Facilitator places the risks identified in the Risk Identification workshop, marked as to be treated by the team itself (‘mitigate’), in the corresponding column, in order of priority (as established in the Risks workshop).
 
-De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
+The following topics are addressed using the Canvas.
 
 <figure><img src="../.gitbook/assets/Maatregelen Canvas.png" alt=""><figcaption></figcaption></figure>
 
-## Maatregelen
+## Measures
 
-Voor ieder Risico bespreekt het team, welke maatregelen zouden helpen om het risico te verlagen. Deze worden op Post-Its genoteerd en op het Canvas geplakt (kolom Controls), naast het Risico waarop ze betrekking hebben.
+For each risk, the team discusses which measures would help to reduce the risk. These are written on Post-Its and placed on the Canvas (Controls column), next to the risk they relate to.
 
-## Effectiviteitsbepaling
+## Determining Effectiveness
 
-Voor iedere maatregel wordt bekeken, hoe vastgesteld kan worden of de maatregel werkt. Ook stelt het team een streefgetal voor aan het eind van de cyclus.
+For each measure, the team considers how to determine whether the measure is working. The team also proposes a target value by the end of the cycle.
 
-## Implementatie
+## Implementation
 
-Besproken wordt wie er binnen het team verantwoordelijk wordt voor de betreffende maatregel. Hij/zij moet toezien op de implementatie van de maatregel. Tevens wordt besproken wat hij/zij nodig heeft van de anderen, om succesvol te kunnen zijn.
+The team discusses who within the team will be responsible for the given measure. He/she will oversee the implementation of the measure. They also discuss what this person needs from others to be successful.
 
-## Uitkomsten
+## Outcomes
 
-* een lijst met maatregelen
-* Voor iedere maatregel:
-  * het risico waarop de maatregel betrekking heeft
-  * hoe de effectiviteit van maatregelen bepaald wordt
-  * een streefwaarde voor de effectiviteit, aan het eind van deze cyclus
-  * wie verantwoordelijk is voor de implementatie van de maatregel (Control Owner)
-  * de bijdrage van andere teamleden
+* A list of measures.
+* For each measure:
+  * The risk the measure relates to.
+  * How the effectiveness of the measure will be determined.
+  * A target effectiveness value by the end of this cycle.
+  * Who is responsible for implementing the measure (Control Owner).
+  * The contribution of other team members.
 
-**Aan het eind van de workshop** herhaalt de Workshop Facilitator de afspraken over de implementatie van maatregelen. Hij kijkt vooruit naar de Alignment Meeting en de volgende workshop (Effectiviteit), waarin besproken zal worden welke resultaten geboekt zijn. Daarbij benoemt hij/zij ook de noodzaak van het bijhouden van een **indicentenregister**, en biedt daarvoor een template of tool aan. De Team Captain is verantwoordelijk voor het bijhouden daarvan.
+**At the end of the workshop**, the Workshop Facilitator repeats the agreements on the implementation of measures. He looks ahead to the Alignment Meeting and the next workshop (Effectiveness), where the results achieved will be discussed. He/she also mentions the need for maintaining an **incident log**, offering a template or tool for it. The Team Captain is responsible for keeping track of this.
 
-## Verslaglegging
+## Documentation
 
-Na afloop van de workshop zorgt de Workshop Facilitator voor een verslaglegging. Hieronder is een voorbeeld opgenomen van een manier waarop dat kan gebeuren. De Workshop Facilitator deelt de verslaglegging met de deelnemers aan de workshop.
+After the workshop, the Workshop Facilitator ensures proper documentation is prepared. Below is an example of how this can be done. The Workshop Facilitator shares the documentation with the workshop participants.
 
-{% file src="../.gitbook/assets/DATE Workshop Controls - Results  CLIENT.pdf" %}
+{% file src="../.gitbook/assets/DATE Workshop Controls - Results CLIENT.pdf" %}
 
 ### Alignment Meeting
 
-Als alle teams de Workshop Maatregelen hebben afgerond, volgt de Alignment Meeting (zie verderop)
+Once all teams have completed the Measures Workshop, the Alignment Meeting will follow (see further details below).
 
-### Verdieping
+### Advanced Consideration
 
-Als verdieping kunnen de **Policy Cards** gebruikt worden. Hierop worden genoteerd:
+As a more advanced step, **Policy Cards** can be used. These include:
 
-* het doel van de maatregelen (in termen van risicobeheersing)
-* een beschrijving van de maatregelen, met de volgende vorm: “Om het risico van X voor Asset Y te beheersen, worden maatregelen A, B en C geïmplementeerd door persoon Z. De effectiviteit wordt vastgesteld door meting P, en wordt geëvalueerd door persoon Q op de manier zoals beschreven in R, op moment S.
-* evt. een verwijzing naar een Control uit ISO 27001 Annex A.
-* een categorisering van de maatregelen (cf ISO 27002)
-* wie de Policy Owner is
+* The purpose of the measures (in terms of risk control).
+* A description of the measures, structured as follows: “To control the risk of X for Asset Y, measures A, B, and C are implemented by person Z. The effectiveness is determined by measurement P, and will be evaluated by person Q in the manner described in R, at time S.”
+* Possibly a reference to a Control from ISO 27001 Annex A.
+* A categorization of the measures (cf ISO 27002).
+* Who the Policy Owner is.
