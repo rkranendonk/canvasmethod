@@ -16,46 +16,21 @@ It may happen that the workshop is organized for a group of participants from di
 
 > Dear Rein, Rybo, Pero, Tanvi, Tim, Sanneke, and Jan,
 >
-> \
-> This Tuesday is the first of two workshops with the Canvas Method for Information Security.\
->
->
-> In this session, we will interactively identify risks related to information security and compliance. These are risks that occur within your own workflows and in exchanges with others. Risks that are specific to your team/organization.
->
-> \
-> What this workshop will deliver is an overview of the main risks, a shared understanding of the risks within each other's processes, and identifying who is best positioned to take action on a risk.
->
-> \
-> In the second workshop, we will collectively determine what measures we can take to gradually improve the security of information processing.
->
-> \
-> In the first fifteen minutes of the workshop, I will further explain the methodology. You do not need to prepare anything.\
->
->
-> A kind request from my side is not to bring laptops – I will take care of the note-taking.\
->
->
-> I look forward to doing this together with you, see you on Tuesday!
-
-Or in English:
-
-> Dear Tanvi and Pero,
->
-> \
+> 
 > This Tuesday is the first of two workshops with the Canvas Method for Information Security.
 >
-> \
-> In this session, we will interactively identify risks related to information security and compliance. These are risks that occur within your own workflows and in exchanges with others. Risks that are specific to your team/organization.\
+> 
+> In this session, we will interactively identify risks related to information security and compliance. These are risks that occur within your own workflows and in exchanges with others. Risks that are specific to your team/organization.
 >
 >
-> What this workshop will deliver is an overview of the main risks, a shared understanding of the risks within each other's processes, and identifying who is best positioned to take action on a risk.\
+> What this workshop will deliver is an overview of the main risks, a shared understanding of the risks within each other's processes, and identifying who is best positioned to take action on a risk.
 >
 >
 > In the second workshop, we will collectively determine what measures we can take to gradually improve the security of information processing.
 >
-> \
+> 
 > In the first fifteen minutes of the workshop, I will further explain the methodology. You do not need to prepare anything.
 >
-> \
-> A kind request from my side is not to bring laptops – I will take care of the note-taking.\
+> 
+> A kind request from my side is not to bring laptops – I will take care of the note-taking.
 > I look forward to doing this together with you, see you on Tuesday!
