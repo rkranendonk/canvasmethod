@@ -1,24 +1,24 @@
-# Sturen op informatieveiligheid
+# Managing information security
 
-De Canvas Methode heeft hiervoor twee instrumenten:
+The Canvas Method has two instruments for this:
 
-* het Effectiviteitscanvas
-* het Implementatiecanvas
+* the Performance Evaluation Canvas
+* the Risk Management Maturity Board
 
-Samen kunnen ze gebruikt worden om te sturen op informatieveiligheid.
+Together, they can be used to manage information security.
 
-<figure><img src=".gitbook/assets/Veiligheidsmonitor.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Performance Evaluation Canvas.png" alt=""><figcaption><p>The Performance Evaluation Canvas</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Implementatie Canvas.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Risk Management Maturity Board.png" alt=""><figcaption><p>The Risk Management Maturity Board</p></figcaption></figure>
 
-Het Risk Management Maturity Board wordt opgehangen op een centrale plek in de organisatie, en toont hoe ver men gevorderd is met de implementatie, documentatie en evaluatie van maatregelen.
+The Risk Management Maturity Board is displayed in a central location within the organization and shows the progress made in the implementation, documentation, and evaluation of measures.\
+In the first column, the Objectives are listed as established for the information security policy. In the second column, the key measures for each objective for the current cycle are recorded.\
 
-In de eerste kolom worden de Doelen genoteerd, zoals ze vastgesteld zijn voor het informatieveiligheidsbeleid. In de tweede kolom worden voor ieder doel de belangrijkste maatregelen voor de huidige cyclus genoteerd.
 
-In de volgende kolommen is ruimte om aan te geven:
+The following columns provide space to indicate:
 
-* Of er beleid is opgesteld voor de maatregel (met een verwijzing naar het document)
-* Per wanneer de maatregel geïmplementeerd is / wordt (‘Go Live Date’)
-* Wanneer de meest recente effectiviteitsmeting is uitgevoerd, met een verwijzing naar de rapportage
-* Wanneer de meest recente evaluatie plaats heeft gevonden, met een verwijzing naar het rapport
-* Welke verbeteringen geïdentificeerd zijn voor de volgende cyclus.
+* whether a policy has been established for the measure (with a reference to the document)
+* the date the measure has been or will be implemented (“Go Live Date”)
+* when the most recent effectiveness assessment was conducted, with a reference to the report
+* when the most recent evaluation took place, with a reference to the report
+* which improvements have been identified for the next cycle.
