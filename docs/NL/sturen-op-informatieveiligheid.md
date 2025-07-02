@@ -11,7 +11,7 @@ Samen kunnen ze gebruikt worden om te sturen op informatieveiligheid.
 
 <figure><img src=".gitbook/assets/Implementatie Canvas.png" alt=""><figcaption></figcaption></figure>
 
-Het Risk Management Maturity Board wordt opgehangen op een centrale plek in de organisatie, en toont hoe ver men gevorderd is met de implementatie, documentatie en evaluatie van maatregelen.
+Het Implementatiecanvas wordt opgehangen op een centrale plek in de organisatie, en toont hoe ver men gevorderd is met de implementatie, documentatie en evaluatie van maatregelen.
 
 In de eerste kolom worden de Doelen genoteerd, zoals ze vastgesteld zijn voor het informatieveiligheidsbeleid. In de tweede kolom worden voor ieder doel de belangrijkste maatregelen voor de huidige cyclus genoteerd.
 
