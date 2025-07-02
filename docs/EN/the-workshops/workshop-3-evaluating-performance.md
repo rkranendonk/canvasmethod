@@ -1,41 +1,43 @@
-# Workshop 3: Effectiviteit
+# Workshop 3: Evaluating performance
 
-Deze workshop is typisch 3 maanden na de tweede workshop (Maatregelen).
 
-De Workshop Facilitator bereidt, evt. met hulp van de Team Captain, de sessie voor:
 
-* selecteren van relevante incidenten (uit het incidentenregister)
-* gemaakte root cause analyses
-* de eerder vastgestelde maatregelen
-* resultaten van effectiviteitsmetingen.
+This workshop typically takes place 3 months after the second workshop (Identifying controls).
 
-De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
+The Workshop Facilitator, possibly with the help of the Team Captain, prepares the session by:
 
-<figure><img src="../.gitbook/assets/Veiligheidsmonitor.png" alt=""><figcaption></figcaption></figure>
+* Selecting relevant incidents (from the incident register)
+* Reviewing completed root cause analyses
+* Examining previously established measures
+* Analyzing results from effectiveness measurements
 
-### Incidenten en Oorzaken
+<figure><img src="../.gitbook/assets/Performance Evaluation Canvas.png" alt=""><figcaption><p>The Performance Evaluation Canvas</p></figcaption></figure>
 
-Met het Team worden de incidenten uit de afgelopen periode besproken, en wordt de oorzaak van het incident vastgesteld.
+The following topics will be covered using the Canvas:
 
-### Evaluatie van de maatregelen
+#### Incidents and Causes
 
-Van de maatregelen die geïmplementeerd zijn, worden de effectiviteitsmetingen besproken. Is het streefgetal behaald, of moet de maatregel worden uitgebreid of aangepast?
+The incidents from the past period will be discussed with the Team, and the cause of each incident will be determined.
 
-### Verbeteringen voor de volgende iteratie
+#### Evaluation of Measures
 
-Vanuit de incidenten, oorzaken en evaluatie van maatregelen wordt bepaald welke verbeteringen nodig of wenselijk zijn voor de volgende iteratie.
+For the measures that have been implemented, the effectiveness measurements will be discussed. Has the target been achieved, or does the measure need to be expanded or adjusted?
 
-### Uitkomsten
+#### Improvements for the Next Iteration
 
-Een verslag van de meeting en een lijst met verbeteringen voor de volgende iteratie.
+Based on the incidents, causes, and evaluation of measures, it will be determined which improvements are necessary or desirable for the next iteration.
 
-### Verdieping
+#### Outcomes
 
-De achterkant van de **Policy Card** biedt ruimte voor gegevens over de effectiviteit van de maatregelen. Hierop worden genoteerd:
+A report of the meeting and a list of improvements for the next iteration.
 
-* het resultaat van de laatste effectiviteitsmeting
-* door wie en wanneer de meting is uitgevoerd
-* evt. een verwijzing naar meer gedetailleerde documentatie
-* de uitkomsten van de evaluatie
-* door wie de evaluatie is uitgevoerd
-* bevindingen en aanbevelingen van de Risico-eigenaar.
+#### In-depth Information
+
+The back of the Policy Card provides space for data on the effectiveness of the measures. The following are noted here:
+
+* The result of the last effectiveness measurement
+* By whom and when the measurement was performed
+* Any reference to more detailed documentation
+* The outcomes of the evaluation
+* By whom the evaluation was performed
+* Findings and recommendations from the Risk Owner.
