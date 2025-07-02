@@ -11,7 +11,7 @@
 
 * [Preparing the workshops](the-workshops/preparing-the-workshops.md)
 * [Workshop 1: Identifying risks](the-workshops/workshop-1-identifying-risks.md)
-* [Workshop 2: Specifying controls](the-workshops/workshop-2-specifying-controls.md)
+* [Workshop 2: Identifying controls](the-workshops/workshop-2-specifying-controls.md)
 * [Workshop 3: Evaluating performance](the-workshops/workshop-3-evaluating-performance.md)
 * [To the next cycle](the-workshops/to-the-next-cycle.md)
 

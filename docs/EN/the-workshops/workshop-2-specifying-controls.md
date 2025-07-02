@@ -1,18 +1,16 @@
-# Workshop 2: Measures
+# Workshop 2: Identifying controls
 
-This workshop typically takes place one week after the first workshop (Risk Identification).
+This workshop typically takes place one week after the first workshop (Identifying Risks).
 
 The Workshop Facilitator starts the workshop with a brief presentation, which includes a review of the previous workshop (Risks) and the objectives of the current workshop.
 
 Below is an example of a presentation that can help convey the above topics to the participants.
 
-{% file src="../.gitbook/assets/DATE Workshop Controls - Slide Deck CLIENT.pdf" %}
-
 The Workshop Facilitator places the risks identified in the Risk Identification workshop, marked as to be treated by the team itself (‘mitigate’), in the corresponding column, in order of priority (as established in the Risks workshop).
 
 The following topics are addressed using the Canvas.
 
-<figure><img src="../.gitbook/assets/Maatregelen Canvas.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Controls Specification Canvas.png" alt=""><figcaption><p>Controls Identification Canvas</p></figcaption></figure>
 
 ## Measures
 
@@ -41,8 +39,6 @@ The team discusses who within the team will be responsible for the given measure
 ## Documentation
 
 After the workshop, the Workshop Facilitator ensures proper documentation is prepared. Below is an example of how this can be done. The Workshop Facilitator shares the documentation with the workshop participants.
-
-{% file src="../.gitbook/assets/DATE Workshop Controls - Results CLIENT.pdf" %}
 
 ### Alignment Meeting
 
