@@ -1,4 +1,4 @@
-# Workshop 1: Risks
+# Workshop 1: Identifying risks
 
 The Workshop Facilitator gives a brief introduction about the project’s purpose and the discipline of information security. The following points are covered:
 
@@ -10,13 +10,11 @@ The Workshop Facilitator gives a brief introduction about the project’s purpos
 
 Below is an example of a presentation that can help convey the topics above to the participants.
 
-{% file src="../.gitbook/assets/DATE Workshop Risks - Slide Deck CLIENT.pdf" %}
-
 After the introduction, the facilitator initiates the interactive part of the workshop.
 
 The following topics are addressed using the Canvas.
 
-<figure><img src="../.gitbook/assets/Risico Canvas.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Risk Identification Canvas.png" alt=""><figcaption><p>The Risk Identifcation Canvas</p></figcaption></figure>
 
 ## Context
 
@@ -35,7 +33,7 @@ The Workshop Facilitator specifically asks about:
 
 If desired, the process can be visualized as a diagram.
 
-**Note:** The goal of this exercise is *not* to create a complete or correct specification of the mentioned items. Mapping out the processes is merely a tool to make participants aware of potential risks.
+**Note:** The goal of this exercise is _not_ to create a complete or correct specification of the mentioned items. Mapping out the processes is merely a tool to make participants aware of potential risks.
 
 ## Risks
 
@@ -75,4 +73,4 @@ For a deeper analysis, **Risk Cards** can be used. These cards include:
 * An estimate of probability and impact (financial, reputation, continuity)
 * Risk score (PxI)
 * Risk treatment (see above)
-* Transfer to … (to be determined in the [Alignment Meeting](../afstemmingsoverleg.md "mention"))
+* Transfer to … (to be determined in the [afstemmingsoverleg.md](../afstemmingsoverleg.md "mention"))
