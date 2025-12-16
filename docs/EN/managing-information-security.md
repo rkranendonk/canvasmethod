@@ -12,8 +12,7 @@ Together, they can be used to manage information security.
 <figure><img src=".gitbook/assets/Risk Management Maturity Board.png" alt=""><figcaption><p>The Risk Management Maturity Board</p></figcaption></figure>
 
 The Risk Management Maturity Board is displayed in a central location within the organization and shows the progress made in the implementation, documentation, and evaluation of measures.\
-In the first column, the Objectives are listed as established for the information security policy. In the second column, the key measures for each objective for the current cycle are recorded.\
-
+In the first column, the Objectives are listed as established for the information security policy. In the second column, the key measures for each objective for the current cycle are recorded.<br>
 
 The following columns provide space to indicate:
 
