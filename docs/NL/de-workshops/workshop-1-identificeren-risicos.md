@@ -20,7 +20,7 @@ De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
 
 ## Context
 
-Deelnemers worden uitgenodigd alle zaken in hun organisatie en de buitenwereld de benoemen, die invloed hebben op hun werk (en meer specifiek het werken met informatie). Een [DESTEP](https://en.wikipedia.org/wiki/PEST\_analysis)-raamwerk kan hierbij behulpzaam zijn. De genoemde zaken worden op Post-Its genoteerd en op het Canvas geplakt. De deelnemers wordt gevraagd een korte toelichting te geven hoe de verschillende onderwerpen hun werkzaamheden beïnvloeden.
+Deelnemers worden uitgenodigd alle zaken in hun organisatie en de buitenwereld de benoemen, die invloed hebben op hun werk (en meer specifiek het werken met informatie). Een [DESTEP](https://en.wikipedia.org/wiki/PEST_analysis)-raamwerk kan hierbij behulpzaam zijn. De genoemde zaken worden op Post-Its genoteerd en op het Canvas geplakt. De deelnemers wordt gevraagd een korte toelichting te geven hoe de verschillende onderwerpen hun werkzaamheden beïnvloeden.
 
 ## Proces
 
@@ -59,13 +59,11 @@ De Workshop Facilitator licht toe, dat het doel hiervan alleen is het bepalen va
 
 ## Risicobehandeling
 
-De Workshop Facilitator pakt de risico’s met de hoogste prioriteiten, en bespreekt met de deelnemer of een risico door het team zelf aangepakt moet worden (‘mitigate’), of het risico door een ander team of partij aangepakt moet worden (‘transfer’), of het risico vermeden kan worden (‘avoid’), of het risico acceptabel is (‘accept’). De betreffende Post-It verhuist naar een van de vier kwadranten. De gekozen behandeling wordt genoteerd.
+De Workshop Facilitator pakt de risico’s met de hoogste prioriteiten, en bespreekt met de deelnemer of een risico door het team zelf aangepakt moet worden (‘Beheersen’), of het risico aangepakt moet worden door, of met hulp van, een ander team of partij (‘Delen’), of het risico vermeden kan worden (‘Vermijden’), of het risico acceptabel is (‘Accepteren’). De betreffende Post-It verhuist naar een van de vier kwadranten. De gekozen behandeling wordt genoteerd.
 
 ## Verslaglegging
 
 Na afloop van de workshop zorgt de Workshop Facilitator voor een verslaglegging. Hieronder is een voorbeeld opgenomen van een manier waarop dat kan gebeuren. De Workshop Facilitator deelt de verslaglegging met de deelnemers aan de workshop.
-
-
 
 ## Verdieping
 
