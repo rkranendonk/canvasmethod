@@ -14,7 +14,7 @@ After the introduction, the facilitator initiates the interactive part of the wo
 
 The following topics are addressed using the Canvas.
 
-<figure><img src="../.gitbook/assets/Risk Identification Canvas.png" alt=""><figcaption><p>The Risk Identifcation Canvas</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Risk Identification Canvas.pdf" alt=""><figcaption><p>The Risk Identifcation Canvas</p></figcaption></figure>
 
 ## Context
 
@@ -57,7 +57,7 @@ The Workshop Facilitator explains that the purpose of this is simply to determin
 
 ## Risk Treatment
 
-The Workshop Facilitator takes the highest-priority risks and discusses with the participants whether a risk should be addressed by the team itself ("mitigate"), whether another team or party should handle it ("transfer"), whether the risk can be avoided ("avoid"), or if the risk is acceptable ("accept"). The respective Post-It is moved to one of the four quadrants. The chosen treatment is noted.
+The Workshop Facilitator takes the highest-priority risks and discusses with the participants whether a risk should be addressed by the team itself ("Control"), whether another team or party should help in addressing the risk ("Share"), whether the risk can be avoided ("Avoid"), or if the risk is acceptable ("Accept"). The respective Post-It is moved to one of the four quadrants. The chosen treatment is noted.
 
 ## Reporting
 
